@@ -1,12 +1,12 @@
 body {
     background-color: black;
-    font-family: Verdana, sans-serif;
     text-align: center;
     color: white;
 }
 header {
     text-align: center;
-    font-weight: normal;
+    font-weight: lighter;
+    font-size: 30px;
 }
 
 .first-p {
