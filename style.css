@@ -9,8 +9,29 @@ header {
     font-size: 30px;
 }
 
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
 .first-p {
     font-size: 16px;
     color: #7FFFD4;
     text-decoration: underline;
+}
+
+.guide {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.download {
+    color: #7FFFD4;
+}
+
+.footer {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
 }
